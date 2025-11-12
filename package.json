@@ -1,0 +1,16 @@
+
+{
+  "name": "fashion-meta-generator",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
